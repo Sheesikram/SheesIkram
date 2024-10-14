@@ -2,14 +2,14 @@
 <h3 align="center">A passionate AI | NLP | Generative AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheesikram&label=Profile%20views&color=0e75b6&style=flat" alt="sheesikram" /> </p>
-<h4 align="center">Skills</h4>
-<h5 align="center">LLM Engineer(Generative Ai Developer) 📱</h5>
-<h5 align="center">App Development 📱</h5>
-<h5 align="center">Django Rest Framework 💻📱</h5>
-<h5 align="center">Langchain</h5>
-<h5 align="center">Langgraph</h5>
-<h5 align="center">Langsmith</h5>
-<h5 align="center">Crew Ai</h5>
+<h4 align="left">Skills</h4>
+<h5 align="left">LLM Engineer(Generative Ai Developer) 📱</h5>
+<h5 align="left">App Development 📱</h5>
+<h5 align="left">Django Rest Framework 💻📱</h5>
+<h5 align="left">Langchain</h5>
+<h5 align="left">Langgraph</h5>
+<h5 align="left">Langsmith</h5>
+<h5 align="left">Crew Ai</h5>
 
 - 🔭 I’m currently working on **Building intelligent systems using NLP techniques**
 
