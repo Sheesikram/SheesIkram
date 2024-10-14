@@ -2,10 +2,18 @@
 <h3 align="center">A passionate AI | NLP | Generative AI Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheesikram&label=Profile%20views&color=0e75b6&style=flat" alt="sheesikram" /> </p>
+<h4 align="center">Skills</h4>
+<h5 align="center">LLM Engineer(Generative Ai Developer) 📱</h5>
+<h5 align="center">App Development 📱</h5>
+<h5 align="center">Django Rest Framework 💻📱</h5>
+<h5 align="center">Langchain</h5>
+<h5 align="center">Langgraph</h5>
+<h5 align="center">Langsmith</h5>
+<h5 align="center">Crew Ai</h5>
 
 - 🔭 I’m currently working on **Building intelligent systems using NLP techniques**
 
-- 📝 I regularly write articles on [My Linkedin](My Linkedin)
+- 📝 I regularly write articles on (My Linkedin)
 
 - 💬 Ask me about **NLP,GEN AI**
 
@@ -17,7 +25,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shees-ikram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shees-ikram/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/sheesikram/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/sheesikram/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/shees ikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shees ikram" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/sheesikram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="shees ikram" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
