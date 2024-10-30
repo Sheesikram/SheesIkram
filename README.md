@@ -11,7 +11,7 @@
 <h5 align="left">Langchain</h5>
 <h5 align="left">Langgraph</h5>
 <h5 align="left">Langsmith</h5>
-<h5 align="left">Crew Ai</h5>
+<h5 align="left">Crew Ai</h5> 
 
 - 🔭 I’m currently working on **Building intelligent systems using NLP techniques**
 
