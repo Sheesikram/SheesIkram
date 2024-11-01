@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shees Ikram</h1>
-<h3 align="center">A passionate AI | NLP | Generative AI Enthusiast</h3>
+<h3 align="center">A passionate AI | NLP | Generative AI Enthusiast</h3> 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheesikram&label=Profile%20views&color=0e75b6&style=flat" alt="sheesikram" /> </p>
 <p aligh="left">I’m a developer and researcher focused on Artificial Intelligence, Natural Language Processing (NLP), and Generative AI. I enjoy exploring how new machine learning models can change the way we interact with technology.</p>
