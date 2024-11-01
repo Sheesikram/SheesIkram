@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building intelligent systems using NLP techniques**
 
-- 📝 I regularly write articles on [My Linkedin](My Linkedin)
+- 📝 I regularly write articles on Shees Ikram(My Linkedin)
 
 - 💬 Ask me about **NLP,GEN AI**
 
