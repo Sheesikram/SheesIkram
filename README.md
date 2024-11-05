@@ -7,7 +7,7 @@
 
 - 📝 I regularly write articles on Shees Ikram(My Linkedin)
 
-- 💬 Ask me about **NLP,GEN AI**
+- 💬 Ask me about **NLP,GEN AI** 
 
 - 📫 How to reach me **sheesikram20@gmail.com**
 
