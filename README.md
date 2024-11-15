@@ -3,7 +3,7 @@
     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sheesikram&label=Profile%20views&color=0e75b6&style=flat" alt="sheesikram" /> </p>
 
-- 🔭 I’m currently working on **Building intelligent systems using NLP techniques** 
+- 🔭 I’m currently working on **Building intelligent systems using NLP techniques**  
 
 - 📝 I regularly write articles on Shees Ikram(My Linkedin)
 
