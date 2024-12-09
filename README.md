@@ -15,29 +15,29 @@
 
 - ⚡ Fun fact: **I am also a YouTuber!**  
 <h3 align="left">Skills:</h3>
-- **Full Stack Web Development (MERN)** 💻  
+- Full Stack Web Development (MERN) 💻  
 <br>  
-- **App Development (Java Developer)** 📱  
+- App Development (Java Developer) 📱  
 <br>  
-- **LLM Engineer (Generative AI Developer)** 📱  
+- LLM Engineer (Generative AI Developer) 📱  
 <br>  
-- **Django Rest Framework** 💻  
+- Django Rest Framework 💻  
 <br>  
-- **Django**  
+- Django
 <br>  
-- **Backend JS**  
+- Backend JS  
 <br>  
-- **Langchain**  
+- Langchain  
 <br>  
-- **Langgraph**  
+- Langgraph  
 <br>  
-- **Python**  
+- Python Developer  
 <br>  
-- **Langsmith**  
+- Langsmith  
 <br>  
-- **LangServe**  
+- LangServe  
 <br>  
-- **LLMOps**  
+- LLMOps
 <br>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
