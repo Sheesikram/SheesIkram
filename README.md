@@ -14,21 +14,31 @@
 - 📫 How to reach me: **sheesikram20@gmail.com**  
 
 - ⚡ Fun fact: **I am also a YouTuber!**  
-
 <h3 align="left">Skills:</h3>
 - **Full Stack Web Development (MERN)** 💻  
-- **App Development (java Developer)** 📱  
+<br>  
+- **App Development (Java Developer)** 📱  
+<br>  
 - **LLM Engineer (Generative AI Developer)** 📱  
+<br>  
 - **Django Rest Framework** 💻  
+<br>  
 - **Django**  
-- **Backend js**  
+<br>  
+- **Backend JS**  
+<br>  
 - **Langchain**  
+<br>  
 - **Langgraph**  
-- **python**  
+<br>  
+- **Python**  
+<br>  
 - **Langsmith**  
+<br>  
 - **LangServe**  
+<br>  
 - **LLMOps**  
-
+<br>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shees-ikram/" target="blank">
