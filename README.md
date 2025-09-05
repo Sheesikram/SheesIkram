@@ -1,4 +1,4 @@
-  <h1 align="center"> Hi 👋, I'm Shees Ikram</h1>  
+  <h1 align="center"> Hi 👋, I'm Shees Ikram</h1>   
 <h3 align="center">A passionate Gen AI | NLP | FULL STACK Developer | AI Automation</h3>              
                                            
 <p align="left">              
