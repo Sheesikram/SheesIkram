@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact: **I am also a YouTuber!**  
 <h3 align="left">Skills:</h3>
-- Full Stack Web Development (MERN) 💻  
+-  AI Agents Development (N8n,zappier,make,langflow)
 <br>  
 - App Development (Java Developer) 📱  
 <br>  
@@ -25,7 +25,7 @@
 <br>  
 - Django
 <br>  
-- Backend JS  
+- AI Agents  
 <br>  
 - Langchain  
 <br>  
@@ -33,11 +33,11 @@
 <br>  
 - Python Developer  
 <br>  
-- Langsmith  
+-  Full Stack Web Development (MERN) 💻 
 <br>  
-- LangServe  
+- N8N  
 <br>  
-- LLMOps
+- AI Automation
 <br>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
