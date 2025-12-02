@@ -23,7 +23,7 @@
 <br>  
 - Django
 <br>  
-- AI Agents  
+- AI Agents   
 <br>  
 - Langchain  
 <br>  
