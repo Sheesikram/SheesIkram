@@ -19,9 +19,7 @@
 <br>  
 - App Development (Java Developer) 📱  
 <br>  
-- LLM Engineer (Generative AI Developer) 📱  
-<br>  
-- Django Rest Framework 💻  
+- LLM Engineer (Generative AI Developer) 📱   
 <br>  
 - Django
 <br>  
