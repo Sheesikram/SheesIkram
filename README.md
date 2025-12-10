@@ -28,7 +28,6 @@
 <br>  
 - Langgraph  
 <br>  
-<br>  
 - Langsmith  
 <br>
 - Python Developer  
