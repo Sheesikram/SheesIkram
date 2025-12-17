@@ -30,7 +30,7 @@
 <br>  
 - Langsmith  
 <br>
-- Python Developer  
+- Python Developer   
 <br>  
 -  Full Stack Web Development (MERN) 💻 
 <br>  
