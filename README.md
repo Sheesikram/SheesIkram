@@ -10,7 +10,7 @@
 - 📝 I regularly write articles on **Shees Ikram (My LinkedIn) and Shees Ikram (medium)**      
           
 - 💬 Ask me about **NLP, Generative AI, Back-End Development**        
-     
+      
 - 📫 How to reach me: **sheesikram20@gmail.com**       
      
 - ⚡ Fun fact: **I am also a YouTuber!**       
