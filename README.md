@@ -20,7 +20,7 @@
 <br>   
 - LLM Engineer (Generative AI Developer) 📱   
 <br>  
-- Django
+- Django 
 <br>  
 - AI Agents   
 <br>  
