@@ -6,7 +6,7 @@
 </p>                 
                  
 - 🔭 I’m currently working on **Building intelligent systems using GenAI techniques**              
-         
+          
 - 📝 I regularly write articles on **Shees Ikram (My LinkedIn) and Shees Ikram (medium)**         
                
 - 💬 Ask me about **NLP, Generative AI, Back-End Development**              
