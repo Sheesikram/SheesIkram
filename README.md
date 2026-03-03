@@ -11,7 +11,7 @@
                
 - 💬 Ask me about **NLP, Generative AI, Back-End Development**              
              
-- 📫 How to reach me: **sheesikram20@gmail.com**             
+- 📫 How to reach me: **sheesikram20@gmail.com**              
          
 - ⚡ Fun fact: **I am also a YouTuber!**          
   
