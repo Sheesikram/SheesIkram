@@ -20,7 +20,7 @@
 <br>   
 - LLM Engineer (Generative AI Developer) 📱    
 <br>   
-- Django 
+- MCP 
 <br>  
 - AI Agents   
 <br>  
