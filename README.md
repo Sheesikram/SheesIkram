@@ -3,7 +3,7 @@
                                                                         
 <p align="left">                                            
   <img src="https://komarev.com/ghpvc/?username=sheesikram&label=Profile%20views&color=0e75b6&style=flat" alt="sheesikram"  />          
-</p>                         
+</p>                          
                         
 - 🔭 I’m currently working on **Building intelligent systems using GenAI techniques**                             
                 
@@ -13,7 +13,7 @@
 - 📫 How to reach me: **sheesikram20@gmail.com**                    
                 
 - ⚡ Fun fact: **I am also a YouTuber!**                
-    
+     
 <h3 align="left">Skills:</h3>        
 -  AI Agents Development (N8n,zappier,make,langflow)   
 <br>   
