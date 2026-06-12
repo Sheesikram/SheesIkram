@@ -19,7 +19,7 @@
 <br>    
 - LLM Engineer (Generative AI Developer) 📱     
 <br>     
-- MCP 
+- MCP  
 <br>  
 - AI Agents   
 <br>  
