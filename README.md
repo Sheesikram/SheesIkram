@@ -1,7 +1,5 @@
-[[<img width="848" height="487" alt="image" src="https://github.com/user-attachments/assets/05097aee-3c35-4e9d-989c-f89c60a1b228" />
-](https://share.gemini.google/C8NXmkSVqXKq)](https://share.gemini.google/C8NXmkSVqXKq)
-  
-  
+<img width="1365" height="784" alt="Gemini_Generated_Image_wzdml1wzdml1wzdm (2)" src="https://github.com/user-attachments/assets/27cd9ece-40e8-4bc2-9ce8-5f0aeeb591f3" />
+
   <h1 align="center"> Hi 👋, I'm Shees Ikram</h1>      
 <h3 align="center">A passionate Gen AI  | AI Automation | RAG Expert | FULL STACK Developer</h3>                     
                                                                                
