@@ -1,7 +1,7 @@
 <img width="1365" height="784" alt="Gemini_Generated_Image_wzdml1wzdml1wzdm (2)" src="https://github.com/user-attachments/assets/27cd9ece-40e8-4bc2-9ce8-5f0aeeb591f3" />
       
 <h3 align="center">A passionate Gen AI  | AI Automation | RAG Expert | FULL STACK Developer</h3>                     
-                                                                                                                          
+                                                                                                                           
                                      
 - 🔭 I’m currently working on **Building intelligent systems using GenAI techniques**                                  
                              
