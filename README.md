@@ -35,7 +35,12 @@
 <br>  
 - AI Automation
 <br>  
- 
+ <br>  
+- React JS
+<br>  
+<br>  
+- React Native
+<br>  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/shees-ikram/" target="blank">
